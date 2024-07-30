@@ -1,1 +1,1 @@
-# data-analytics-portfolio
+#ShopNest Store Power BI Project
